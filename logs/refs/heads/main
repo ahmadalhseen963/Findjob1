@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0a549aeec357e6dd876df97b1a6875e89b894a61 ahmadalseen305 <33182167-ahmadalseen305@users.noreply.replit.com> 1765261108 +0000	commit (initial): Initial commit
+0a549aeec357e6dd876df97b1a6875e89b894a61 88f3c82ef87d2694d655040555434df7da3d6018 ahmadalseen305 <33182167-ahmadalseen305@users.noreply.replit.com> 1765261158 +0000	commit: Extracted stack files
+88f3c82ef87d2694d655040555434df7da3d6018 b78582c1433ecb9487691a02344d59eda20da731 ahmadalseen305 <33182167-ahmadalseen305@users.noreply.replit.com> 1765262193 +0000	commit: Add Arabic language support and right-to-left directionality
+b78582c1433ecb9487691a02344d59eda20da731 a3bd5c9bc6dc613d84e8e940c49f324141cbaf8b ahmadalseen305 <33182167-ahmadalseen305@users.noreply.replit.com> 1765262842 +0000	commit: Add username field and integrate real-time data fetching for job opportunities
+a3bd5c9bc6dc613d84e8e940c49f324141cbaf8b 541a6b7ab961a3cc094ed48e28d7e3aeab73d427 ahmadalseen305 <33182167-ahmadalseen305@users.noreply.replit.com> 1765262874 +0000	commit: Saved progress at the end of the loop
